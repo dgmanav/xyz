@@ -2,5 +2,3 @@ test
 dsdasdsadsdfsdfsadasdsa
 
 testfor branch 1
-
-bug1 branch changes
